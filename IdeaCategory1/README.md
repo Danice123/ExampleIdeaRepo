@@ -1,1 +1,0 @@
-Some Category 1

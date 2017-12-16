@@ -1,33 +1,32 @@
-Weapons Pack Documentation and Road Map
+# Weapons Pack Documentation and Road Map
+## Weapon List:
 
-Weapon List:
+### Rifles
 
-Rifles
+- [x] SMG
+- [ ] Carbine
+- [x] Assault Rifle
+- [x] Battle Rifle
 
-SMG
-Carbine
-Assault Rifle
-Battle Rifle
+### Shotguns
 
-Shotguns
+- [x] Shotgun
 
-Shotgun
+### Sniper Rifles
 
-Sniper Rifles
+- [x] Marksman Rifle
+- [x] Sniper Rifle
 
-Marksman Rifle
-Sniper Rifle
+### Machine Guns
 
-Machine Guns
+- [x] Cannon
+- [ ] LMG
+- [ ] SAW
 
-Cannon
-LMG
-SAW
+## Tier List
 
-Tier List
-
-Conventional
-Laser
-Magnetic
-Coil
-Beam
+* Conventional
+* Laser
+* Magnetic
+* Coil
+* Beam

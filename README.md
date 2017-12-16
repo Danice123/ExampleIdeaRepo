@@ -1,1 +1,3 @@
-LWOT Documentation and RoadMap
+# LWOT Documentation and RoadMap
+
+Go to [Table of Contents](TableOfContents.md)

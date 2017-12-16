@@ -3,7 +3,7 @@
 
 ### Rifles
 
-- [x] SMG
+- [x] [SMG](SMG.md)
 - [ ] Carbine
 - [x] Assault Rifle
 - [x] Battle Rifle

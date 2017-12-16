@@ -1,32 +1,15 @@
-# Weapons Pack Documentation and Road Map
+# Weapon Tiers Documentation
 ## Weapon List:
-
-### Rifles
-
-- [x] SMG
-- [ ] Carbine
-- [x] Assault Rifle
-- [x] Battle Rifle
-
-### Shotguns
-
-- [x] Shotgun
-
-### Sniper Rifles
-
-- [x] Marksman Rifle
-- [x] Sniper Rifle
-
-### Machine Guns
-
-- [x] Cannon
-- [ ] LMG
-- [ ] SAW
-
 ## Tier List
-
-* Conventional
-* Laser
-* Magnetic
-* Coil
-* Beam
+### Conventional
+* No bonus in standalone
+* No unique bonuses
+### Laser
+* Aim bonus (+5)
+### Magnetic
+* No bonus in standalone
+### Coil
+* Pierce bonus (+1 pierce)
+### Beam
+* No bonus in standalone
+* Individual bonuses and rupture (+1 rupture)

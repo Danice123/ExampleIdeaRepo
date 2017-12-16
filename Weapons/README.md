@@ -4,26 +4,26 @@
 ### Rifles
 
 - [x] [SMG](SMG.md)
-- [ ] Carbine
-- [x] Assault Rifle
-- [x] Battle Rifle
+- [ ] [Carbine](Carbine.md)
+- [x] [Assault Rifle](AssaultRifle.md)
+- [x] [Battle Rifle](BattleRifle.md)
 
 ### Shotguns
 
-- [x] Shotgun
+- [x] [Shotgun](Shotgun.md)
 
 ### Sniper Rifles
 
-- [x] Marksman Rifle
-- [x] Sniper Rifle
+- [x] [Marksman Rifle](MarksmanRifle.md)
+- [x] [Sniper Rifle](SniperRifle.md)
 
 ### Machine Guns
 
-- [x] Cannon
-- [ ] LMG
-- [ ] SAW
+- [x] [Cannon](Cannon.md)
+- [ ] [LMG](LMG.md)
+- [ ] [SAW](SAW.md)
 
-## Tier List
+## [Tier List](Weapon%20Tiers/README.md)
 
 * Conventional
 * Laser
